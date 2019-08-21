@@ -23,7 +23,7 @@ ruby learning-Ruby-with-Ruby.rb
 
 # My environment
 
-Windows 10 64bit, Ruby 2.5.3, pandoc 2.2.1, mechanize (2.7.6)
+Windows 10 64bit, Ruby 2.5.5p157 (2019-03-15 revision 67260) [x64-mingw32], pandoc 2.2.1, mechanize (2.7.6)
 
 ## Note
 Windows環境では、machineizeでnet-http-persistent-3.0.0を使用すると「uninitialized constant Process::RLIMIT_NOFILE (NameError)」エラーが発生しました。
