@@ -2,8 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
-
-gem 'mechanize'
-gem "nokogiri", ">= 1.10.4"
+gem "mechanize"
+gem "nokogiri", ">= 1.10.8"
