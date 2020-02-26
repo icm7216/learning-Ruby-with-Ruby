@@ -2,3 +2,4 @@
 *.epub
 img/
 .vscode/
+/Gemfile.lock
